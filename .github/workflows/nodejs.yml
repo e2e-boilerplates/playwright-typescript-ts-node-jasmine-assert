@@ -1,4 +1,4 @@
-name: playwright-typescript-ts-node-jasmine-expect
+name: playwright-typescript-ts-node-jasmine-assert
 
 on:
   push:

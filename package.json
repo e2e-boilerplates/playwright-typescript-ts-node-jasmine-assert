@@ -1,7 +1,7 @@
 {
-  "name": "playwright-typescript-ts-node-jasmine-expect",
+  "name": "playwright-typescript-ts-node-jasmine-assert",
   "version": "1.0.0",
-  "description": "Playwright end-to-end test automation boilerplate, using ES6 Modules, TypeScript, Jasmine and Expect.",
+  "description": "Playwright end-to-end test automation boilerplate, using ES6 Modules, TypeScript, Jasmine and assert.",
   "scripts": {
     "pretty": "prettier --no-config './spec/*.ts' --write",
     "lint": "tslint -c tslint.json './spec/*.ts'",
