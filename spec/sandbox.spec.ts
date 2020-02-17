@@ -1,5 +1,5 @@
 import { chromium } from "playwright";
-import { strictEqual } from "assert";
+import assert from "assert";
 
 let page: any;
 let browser: any;
@@ -31,7 +31,7 @@ describe("Sandbox", () => {
       return el.textContent;
     });
 
-    strictEqual(await page.title(), "Sandbox");
-    strictEqual(title, "Sandbox");
+    assert.strictEqual(await page.title(), "Sandbox");
+    assert.strictEqual(title, "Sandbox");
   });
 });

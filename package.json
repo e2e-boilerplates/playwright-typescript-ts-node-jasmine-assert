@@ -1,7 +1,7 @@
 {
   "name": "playwright-typescript-ts-node-jasmine-assert",
   "version": "1.0.0",
-  "description": "Playwright end-to-end test automation boilerplate, using ES6 Modules, TypeScript, Jasmine and assert.",
+  "description": "Playwright end-to-end test automation boilerplate, using ES6 Modules, TypeScript, Jasmine and Assert.",
   "scripts": {
     "pretty": "prettier --no-config './spec/*.ts' --write",
     "lint": "tslint -c tslint.json './spec/*.ts'",
@@ -9,13 +9,14 @@
   },
   "keywords": [
     "playwright",
-    "es6 modules",
+    "es6",
     "typescript",
     "tsnode",
     "jasmine",
     "boilerplate",
     "example",
-    "e2e"
+    "e2e",
+    "e2e test"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
