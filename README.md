@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert](https://github.com/e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/workflows/playwright-typescript-ts-node-jasmine-assert/badge.svg)](https://github.com/e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/actions?workflow=playwright-typescript-ts-node-jasmine-assert)
+[![GitHub Actions status | e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert](https://github.com/e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/workflows/playwright-typescript-ts-node-jasmine-assert/badge.svg)](https://github.com/e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/actions?workflow=playwright-typescript-ts-node-jasmine-assert) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Playwright Boilerplate
 
