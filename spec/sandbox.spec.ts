@@ -1,5 +1,5 @@
 import { chromium } from "playwright";
-import assert from "assert";
+import * as assert from "assert";
 
 let page: any;
 let browser: any;
