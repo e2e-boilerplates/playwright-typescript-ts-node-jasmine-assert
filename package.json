@@ -13,11 +13,7 @@
   "description": "Playwright end-to-end test automation boilerplate. Using TypeScript, ts-node, Jasmine and Assert.",
   "devDependencies": {
     "@types/jasmine": "3.5.10",
-<<<<<<< HEAD
-    "@types/node": "13.9.6",
-=======
     "@types/node": "13.9.7",
->>>>>>> cbe433d14ff5a4fd05a117012995d94ddcfac80e
     "husky": "4.2.3",
     "lint-staged": "10.1.0",
     "prettier": "2.0.2",
