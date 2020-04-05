@@ -1,0 +1,12 @@
+| referrer                                                                                                                                                       | count | uniques |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/pulls                                                                                            | 6     | 1       |
+| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/actions                                                                                          | 4     | 2       |
+| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/pull/23                                                                                          | 3     | 1       |
+| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/pull/20                                                                                          | 2     | 1       |
+| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/pull/24                                                                                          | 2     | 1       |
+| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/pull/24/files/5d4edd56f80e7af7176e0b8e64a4469456f7a465..0af8795b7d8d52576906c7266950620bb648fa10 | 2     | 1       |
+| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/runs/526304825                                                                                   | 2     | 1       |
+| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert                                                                                                  | 1     | 1       |
+| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/actions/runs/61098570                                                                            | 1     | 1       |
+| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/actions/runs/61101899                                                                            | 1     | 1       |
