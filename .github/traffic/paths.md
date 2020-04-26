@@ -1,9 +1,0 @@
-| referrer                                                                                       | count | uniques |
-| :--------------------------------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert                                  | 5     | 4       |
-| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/blob/master/spec/sandbox.spec.ts | 2     | 2       |
-| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/tree/master/spec                 | 2     | 2       |
-| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/actions                          | 2     | 1       |
-| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/graphs/traffic                   | 2     | 1       |
-| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/pulse                            | 2     | 1       |
-| /e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert/pull/34                          | 1     | 1       |
