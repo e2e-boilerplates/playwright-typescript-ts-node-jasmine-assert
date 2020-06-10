@@ -6,14 +6,14 @@
   "dependencies": {
     "chromedriver": "83.0.0",
     "jasmine": "3.5.0",
-    "playwright": "1.0.2",
+    "playwright": "1.1.0",
     "ts-node": "8.10.2",
     "typescript": "3.9.5"
   },
   "description": "Playwright end-to-end test automation boilerplate. Using TypeScript, ts-node, Jasmine and Assert.",
   "devDependencies": {
     "@types/jasmine": "3.5.10",
-    "@types/node": "13.13.10",
+    "@types/node": "13.13.12",
     "husky": "4.2.5",
     "lint-staged": "10.2.9",
     "prettier": "2.0.4",
@@ -31,6 +31,9 @@
     "assert",
     "jasmine",
     "playwright",
+    "playwright automation",
+    "playwright boilerplate",
+    "playwright example",
     "ts-node",
     "typescript",
     "e2e",
